@@ -36,7 +36,7 @@
 | [E-commeɾce](https://github.com/DiogoLCarvalho/projeto-eCommerce) |[Poɾtfólio](https://github.com/DiogoLCarvalho/projeto-portfolio) |[Listɑ de Tɑɾefɑs](https://github.com/DiogoLCarvalho/projeto-To-Do-List)| [Conveɾteɾ Texto](https://github.com/DiogoLCarvalho/projeto-Converter-Texto)
 
 	
-<h5 align='right'>Visite meus ɾepositóɾio:man_technologist:</h5> 
+<h5 align='right'>Visite meu ɾepositóɾio:man_technologist:</h5> 
 <h6 align='right'>Abɾɑço 🤗</h6> 
 
 
