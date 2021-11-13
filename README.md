@@ -20,7 +20,7 @@
 <p align='justify'>Prazer, sou <b>  Diogo Lima Carvalho</b> e  atualmente estou estudando técnico em informática para internet no <a href="http://smp.ifsp.edu.br/" target="_blank"> IFSP São Miguel Paulista</a>. Desde que comecei a programar, nunca parei de me encantar com o mundo da tecnologia. Estou pronto para melhorar minhas habilidades de codar e atingir melhores resultados!
 </p>
 
-<h2>Habilidades</h2> 
+<h2>🔥 Habilidades</h2> 
 
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -28,22 +28,12 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-f08c0a?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github" />&nbsp;&nbsp;
 
+<h2>💻 Projetos pessoais</h2> 
+
+|<p align='center'>🛒</p>|<p align='center'>🙋‍♂️</p>|<p align='center'>📄</p>|<p align='center'>✏️</p>|
+| :--- | :--- | :--- |  :--- |
+| [E-commerce](https://github.com/DiogoLCarvalho/projeto-eCommerce) |[Portfólio](https://github.com/DiogoLCarvalho/projeto-portfolio) |[Lista de Tarefas](https://github.com/DiogoLCarvalho/projeto-To-Do-List)| [Converter Texto](https://github.com/DiogoLCarvalho/projeto-Converter-Texto)
 
 
-
-
-
-<!--
-**DiogoLCarvalho/DiogoLCarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h5 align='right'>Visite meus repositórios :man_technologist:</h5> 
+<h6 align='right'>Abraço 🤗</h6> 
