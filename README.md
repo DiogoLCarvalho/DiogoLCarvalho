@@ -31,9 +31,9 @@
 
 <h2>💻 𝑃𝑟𝑜𝑗𝑒𝑡𝑜𝑠 𝑝𝑒𝑠𝑠𝑜𝑎𝑖𝑠</h2> 
 
-|<p align='center' >🛒</p>|<p align='center'>🙋‍♂️</p>|<p align='center'>📄</p>|<p align='center'>✏️</p>|
-| :--- | :--- | :--- |  :--- |
-| [E-commeɾce](https://github.com/DiogoLCarvalho/projeto-eCommerce) |[Poɾtfólio](https://github.com/DiogoLCarvalho/projeto-portfolio) |[Listɑ de Tɑɾefɑs](https://github.com/DiogoLCarvalho/projeto-To-Do-List)| [Conveɾteɾ Texto](https://github.com/DiogoLCarvalho/projeto-Converter-Texto)
+|<p align='center' >🛒</p>|<p align='center'>🙋‍♂️</p>|<p align='center'>📄</p>|<p align='center'>✏️</p>|<p align='center'>❓</p>|
+| :--- | :--- | :--- |  :--- | :--- |
+| [E-commeɾce](https://github.com/DiogoLCarvalho/projeto-eCommerce) |[Poɾtfólio](https://github.com/DiogoLCarvalho/projeto-portfolio) |[Listɑ de Tɑɾefɑs](https://github.com/DiogoLCarvalho/projeto-To-Do-List)| [Conveɾteɾ Texto](https://github.com/DiogoLCarvalho/projeto-Converter-Texto) | [Adivinhe um número](https://github.com/DiogoLCarvalho/projeto-guess-the-number)
 
 	
 <h5 align='right'>Visite meu ɾepositóɾio:man_technologist:</h5> 
