@@ -1,4 +1,4 @@
-<h1 align="center">𝑂𝑙𝑎́, 𝑡𝑢𝑑𝑜 𝑐𝑒𝑟𝑡𝑜?<img src="https://i.pinimg.com/originals/a7/1c/11/a71c1120763e9b9690461cee3f3218c6.gif" width="40px"  align="center"> </h1>
+<h1 align="center"><i>Olá, tudo certo</i>?<img src="https://i.pinimg.com/originals/a7/1c/11/a71c1120763e9b9690461cee3f3218c6.gif" width="40px"  align="center"> </h1>
 
 <p align='center'>
   <a href="#" target="_blank">
@@ -21,7 +21,7 @@
 
 </p>
 
-<h2>🔥 𝐻𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒𝑠</h2> 
+<h2>🔥 <i>Habilidades</i> </h2> 
 
 <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
@@ -29,7 +29,7 @@
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-f08c0a?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-GitHub-171515?style=for-the-badge&logo=github" />&nbsp;&nbsp;
 
-<h2>💻 𝑃𝑟𝑜𝑗𝑒𝑡𝑜𝑠 𝑝𝑒𝑠𝑠𝑜𝑎𝑖𝑠</h2> 
+<h2>💻 <i> Projetos pessoais</i> </h2> 
 
 |<p align='center' >🛒</p>|<p align='center'>🙋‍♂️</p>|<p align='center'>📄</p>|<p align='center'>✏️</p>|<p align='center'>❓</p>|
 | :--- | :--- | :--- |  :--- | :--- |
