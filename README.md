@@ -1,7 +1,7 @@
 <h1 align="center"><i>Olá, tudo certo</i>?<img src="https://i.pinimg.com/originals/a7/1c/11/a71c1120763e9b9690461cee3f3218c6.gif" width="40px"  align="center"> </h1>
 
 <p align='center'>
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/diogo-lima-carvalho/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
     
