@@ -8,11 +8,11 @@
   <a href="mailto:diogo.carvalho.lc@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+<!-- 
   <a href="#" target="_blank">
    <img src="https://img.shields.io/badge/-@diogoCarvalho-E1306C?&style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  
+-->
 </p>
 
 <h1></h1> 
