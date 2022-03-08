@@ -33,7 +33,7 @@
 
 |<p align='center' >🛒</p>|<p align='center'>🙋‍♂️</p>|<p align='center'>📄</p>|<p align='center'>✏️</p>|<p align='center'>❓</p>|
 | :--- | :--- | :--- |  :--- | :--- |
-| [E-commeɾce](https://github.com/DiogoLCarvalho/projeto-eCommerce)  |[Poɾtfólio](https://github.com/DiogoLCarvalho/projeto-portfolio) |[Listɑ de Tɑɾefɑs](https://github.com/DiogoLCarvalho/projeto-To-Do-List)| [Validação de Foɾmulɑ́ɾios](https://github.com/DiogoLCarvalho/projeto-validacao-de-formulario) | [Jogo da Memória](https://github.com/DiogoLCarvalho/projeto-jogo-da-memoria)
+| [E-commeɾce](https://github.com/DiogoLCarvalho/projeto-eCommerce)  |[Poɾtfólio](https://github.com/DiogoLCarvalho/projeto-portfolio) |[Listɑ de Tɑɾefɑs](https://github.com/DiogoLCarvalho/projeto-To-Do-List)| [Vɑlidɑçɑ̃o de Foɾmulɑ́ɾios](https://github.com/DiogoLCarvalho/projeto-validacao-de-formulario) | [Jogo da Memória](https://github.com/DiogoLCarvalho/projeto-jogo-da-memoria)
 | <img src="https://user-images.githubusercontent.com/84794798/157334545-13f2700c-251d-433a-98f8-ec886b03b33a.gif" width="200"> | <img src="https://user-images.githubusercontent.com/84794798/157333116-b80e0050-e18d-42bd-92e8-ca74f9d06739.gif" width="200"> | <img src="https://user-images.githubusercontent.com/84794798/157334735-5e093469-45d0-480c-9ac8-20b38fdcaf7d.gif" width="200"> |  <img src="https://user-images.githubusercontent.com/84794798/157334686-8e53a201-fb6b-4252-ae85-a6730ed9f4cc.gif" width="200"> | <img src="https://user-images.githubusercontent.com/84794798/157334610-c10c036f-c722-4943-84d4-566924c2f636.gif"  width="200"> |
 
 
