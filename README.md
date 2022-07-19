@@ -1,4 +1,4 @@
-<h1 align="center"><i>Olá, tudo certo</i>?<img src="https://i.pinimg.com/originals/a7/1c/11/a71c1120763e9b9690461cee3f3218c6.gif" width="20%"  align="center"></h1>
+<h1 align="center"><i>Olá, tudo certo 👋</i></h1>
 
 <p align='center'>
   <a href="https://www.linkedin.com/in/diogo-lima-carvalho/" target="_blank">
