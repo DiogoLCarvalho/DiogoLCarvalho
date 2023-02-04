@@ -79,17 +79,6 @@
   
 </details>
 
-<details>
-  <summary><b> <em>:ghost: Sobre mim :ghost:</em></b></summary>
-  <p>   </p>
-  
-  <ul>
-    <li>:handshake: Estou a seis graus de separação do The Rock (adoro essa teoria haha)</li>
-    <li>:performing_arts: Já atuei em 3 peças teatrais</li>
-    <li>:studio_microphone: Estou me viciando na onda dos podcasts (ouçam <a href="https://open.spotify.com/show/5VzFvh1JlEhBMS6ZHZ8CNO" target="_blank">Anything Goes</a>)</li>
-    <li>:running_man: Já participei de uma competição de atletismo </li>
-   <ul> 
-</details>
 
 
 <h6 align='right'>Abraço 🤗</h6> 
