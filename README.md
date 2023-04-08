@@ -3,7 +3,7 @@
   <samp>
     👋 Olá! Tudo certo? 👋
     <br>Prazer, sou o <b>Diogo Lima Carvalho</b>
-      <br>Sou formado no <b><em><a href="http://smp.ifsp.edu.br/" target="_blank">IFSP SMP</a></em></b>, técnico em informática para internet e atualmente estou cursando DSM na <em><b><a href="http://www.fateczl.edu.br/dsmp" target="_blank"> FATEC ZL</a></em></b>
+      <br>Sou formado no <b><em><a href="http://smp.ifsp.edu.br/" target="_blank">IFSP SMP</a></em></b> no curso de técnico em informática para internet e atualmente estou cursando DSM na <em><b><a href="http://www.fateczl.edu.br/inicio" target="_blank"> FATEC ZL</a></em></b>
     <br>Desde que comecei a programar, nunca parei de me encantar com o mundo da tecnologia
     <br>Estou pronto para melhorar minhas habilidades e atingir melhores resultados <br><br>
     <!-- dois gifs, não sei qual escolher grrr -->
