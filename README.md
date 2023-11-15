@@ -1,4 +1,4 @@
-### :wave: Hello there! 
+### Hello there! 
 
 I graduated from <b><em><a href="http://smp.ifsp.edu.br/" target="_blank">IFSP SMP</a></em></b> and I'm currently studying at <em><b><a href="http://www.fateczl.edu.br/inicio" target="_blank"> FATEC ZL</a></em></b>.
 
